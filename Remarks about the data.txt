@@ -1,0 +1,7 @@
+Remarks about the data:
+
+- All datasets are OpenStreetMap data that can be downloaded from https://download.geofabrik.de/europe/germany/nordrhein-westfalen/koeln-regbez.html
+
+- They come in pairs: A dataset "geb-XXX" contains the buildings and a dataset "XXX" contains the roads
+
+- The larger datasets "mehlem-sued/geb-mehlem-sued" are only used for the evaluation of the running time in our publication. The other 15 datasets are also used for the other parts of our evaluation.  
